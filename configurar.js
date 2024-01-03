@@ -2,17 +2,17 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //configurar dono
-global.numerodono = "559791535587"
+global.numerodono = "16023344194"
 global.nomedono = "𝐕𝐞𝐧𝐨𝐦"
-global.nomebot = '𝐕𝐞𝐧𝐨𝐦 𝐏𝐫𝐢𝐯𝐚𝐭 𝟓𝐤' 
-global.ytvenom = "YT: https://youtube.com/@VenomModss"
+global.nomebot = '𝐕𝐞𝐧𝐨𝐦 𝐏𝐫𝐢𝐯𝐚𝐭 ' 
+global.ytvenom = "YT: https://youtube.com/@schwarzebaron"
 global.prefixo = "."
-global.instavenom = "INSTA: instagram.com/venom_mods_ofc"
+global.instavenom = "INSTA: instagram.com/6u.cg"
 global.local = "Brasil, AM, SP"
 
 //pacote de figurinhas 
-global.packnome = 'Figurinha By'
-global.author = 'VenomPrivat5k\n\nCanal: youtube.com/@VenomModss'
+global.packnome = 'Create By'
+global.author = 'Baron\n\nKanal: youtube.com/@schwarzebaron'
 
 //false= desativado e true= ativado
 global.autoGravar = false //gravação automática
